@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="2194" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="749" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -139,7 +139,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2O5bQSTtwyM0hq1sufH-75" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Metasploitable2&lt;/b&gt;&lt;div&gt;10.10.10.50&lt;/div&gt;" vertex="1">
+        <mxCell id="e2O5bQSTtwyM0hq1sufH-75" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Metasploitable2&lt;/b&gt;&lt;div&gt;10.10.10.101&lt;/div&gt;" vertex="1">
           <mxGeometry height="44.22" width="45.5" x="537.25" y="880" as="geometry" />
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-81" edge="1" parent="1" source="e2O5bQSTtwyM0hq1sufH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;">
@@ -152,7 +152,7 @@
             <mxPoint x="560" y="1050" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2O5bQSTtwyM0hq1sufH-76" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Metasploitable2&lt;/b&gt;&lt;div&gt;10.10.10.50&lt;/div&gt;" vertex="1">
+        <mxCell id="e2O5bQSTtwyM0hq1sufH-76" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Vulnserver&lt;/b&gt;&lt;div&gt;10.10.10.102&lt;/div&gt;" vertex="1">
           <mxGeometry height="44.22" width="45.5" x="537.25" y="970" as="geometry" />
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
