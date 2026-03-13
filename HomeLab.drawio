@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="749" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -83,7 +83,7 @@
         <mxCell id="e2O5bQSTtwyM0hq1sufH-24" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Kali Linux - Purple&lt;/b&gt;&lt;div&gt;10.10.4.2&lt;/div&gt;" vertex="1">
           <mxGeometry height="69" width="71" x="1400" y="462.51" as="geometry" />
         </mxCell>
-        <mxCell id="e2O5bQSTtwyM0hq1sufH-26" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Kali Linux&lt;/b&gt;&lt;div&gt;10.10.4.3&lt;/div&gt;" vertex="1">
+        <mxCell id="e2O5bQSTtwyM0hq1sufH-26" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;b&gt;Kali Linux&lt;/b&gt;&lt;div&gt;10.10.4.3&lt;/div&gt;" vertex="1">
           <mxGeometry height="69" width="71" x="1400" y="582.51" as="geometry" />
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-67" edge="1" parent="1" source="e2O5bQSTtwyM0hq1sufH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" target="e2O5bQSTtwyM0hq1sufH-45" value="">
@@ -109,6 +109,14 @@
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-59" parent="1" style="fillColor=#808080;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.neutron_port;" value="" vertex="1">
           <mxGeometry height="48" width="50" x="772" y="778" as="geometry" />
+        </mxCell>
+        <mxCell id="Wp6R3qQ-pKDZ1JC_yOl--2" edge="1" parent="1" source="e2O5bQSTtwyM0hq1sufH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" target="Wp6R3qQ-pKDZ1JC_yOl--1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="859" />
+              <mxPoint x="750" y="912" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-60" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" value="" vertex="1">
           <mxGeometry height="17.49" width="58.3" x="767.85" y="850" as="geometry" />
@@ -139,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2O5bQSTtwyM0hq1sufH-75" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Metasploitable2&lt;/b&gt;&lt;div&gt;10.10.10.101&lt;/div&gt;" vertex="1">
+        <mxCell id="e2O5bQSTtwyM0hq1sufH-75" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Metasploitable2&lt;/b&gt;&lt;div&gt;10.10.10.51&lt;/div&gt;" vertex="1">
           <mxGeometry height="44.22" width="45.5" x="537.25" y="880" as="geometry" />
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-81" edge="1" parent="1" source="e2O5bQSTtwyM0hq1sufH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;">
@@ -152,7 +160,7 @@
             <mxPoint x="560" y="1050" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2O5bQSTtwyM0hq1sufH-76" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Vulnserver&lt;/b&gt;&lt;div&gt;10.10.10.102&lt;/div&gt;" vertex="1">
+        <mxCell id="e2O5bQSTtwyM0hq1sufH-76" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;Vulnserver&lt;/b&gt;&lt;div&gt;10.10.10.52&lt;/div&gt;" vertex="1">
           <mxGeometry height="44.22" width="45.5" x="537.25" y="970" as="geometry" />
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
@@ -169,6 +177,9 @@
         </mxCell>
         <mxCell id="e2O5bQSTtwyM0hq1sufH-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="Damn Vulnerable Web" vertex="1">
           <mxGeometry height="30" width="114" x="516" y="1106" as="geometry" />
+        </mxCell>
+        <mxCell id="Wp6R3qQ-pKDZ1JC_yOl--1" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" value="&lt;b&gt;DC1&lt;/b&gt;&lt;div&gt;10.10.20.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44.22" width="45.5" x="774.25" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
